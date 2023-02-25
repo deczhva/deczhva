@@ -2,7 +2,6 @@
 Welcome to my GitHub Profile!
 <b>I am Zhevanya</b>👋
 
-I want to work as a UI/UX designer and creating modern and user friendly interface✨🤩
 <img align='right' src="https://thumbs.gfycat.com/SilverPlushAmericanriverotter-max-1mb.gif" width="230">
 <p></br><b>-- Let's Learn and Grow!</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
