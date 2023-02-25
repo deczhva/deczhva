@@ -8,8 +8,7 @@ Welcome to my GitHub Profile!
 
 > *"The possibility of all those possibilities being possible is just another possibility that can possibly happen."* <br>**-Mark Lee**
 ### <img src="https://i.ya-webdesign.com/images/molang-transparent-animated-gif.gif" width="50"> A little more about me...
-- 🔭 I’m currently working on a project
-- 🤔 I’m looking for help with browser or my friends😅
+
 - 😄 Pronouns: "She" | "Her"
 - ⚡ Fun fact: I love listening to music & 24/7 singing😁
 
